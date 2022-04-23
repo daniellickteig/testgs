@@ -28,7 +28,7 @@ function addGS(){
 
         },
         redirect: 'follow', // manual, *follow, error
-        body: JSON.stringify({name:"Olivia"}) // body data type must match "Content-Type" header
+        body: JSON.stringify({first:"James",phone:"504-621-8927",last:"Butt"}) // body data type must match "Content-Type" header
       });
 
     
